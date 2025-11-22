@@ -10,7 +10,7 @@
   [![License](https://img.shields.io/badge/License-MIT-black)](LICENSE)
   
   <a href="https://aashish-jha-11.github.io/MAP/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Try_It_Live-black?style=for-the-badge" alt="Try ThoughtWeb" width="200">
+    <img src="https://thoughtweb-opal.vercel.app/badge/🚀_Try_It_Live-black?style=for-the-badge" alt="Try ThoughtWeb" width="200">
   </a>
 </div>
 
