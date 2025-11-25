@@ -184,7 +184,3 @@ We welcome contributions from the community. Feel free to fork the repository, m
 - Also, I would love to thank my undiagnosed ADHD for impulsively jumping on the idea as soon as the session ended.
 
 - This project has been rebuilt with Supabase instead of Firebase for better open-source compatibility and a generous free tier.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
